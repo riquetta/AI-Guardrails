@@ -179,12 +179,3 @@ Ideas to extend this project:
 MIT License – use freely for learning, demos, and internal tooling.
 
 ---
-
-If you want, I can:
-
-* Add **architecture diagrams**
-* Convert this into a **secure API service**
-* Map this to **Microsoft AI Security Framework**
-* Help you turn this into a **blog post or conference demo**
-
-Just tell me 👍
